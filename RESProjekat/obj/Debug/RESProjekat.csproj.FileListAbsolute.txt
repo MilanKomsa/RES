@@ -1,0 +1,7 @@
+C:\Users\Sava\Desktop\RES\ResProjekat\RESProjekat\RESProjekat\bin\Debug\RESProjekat.exe.config
+C:\Users\Sava\Desktop\RES\ResProjekat\RESProjekat\RESProjekat\bin\Debug\RESProjekat.exe
+C:\Users\Sava\Desktop\RES\ResProjekat\RESProjekat\RESProjekat\bin\Debug\RESProjekat.pdb
+C:\Users\Sava\Desktop\RES\ResProjekat\RESProjekat\RESProjekat\obj\Debug\RESProjekat.csprojResolveAssemblyReference.cache
+C:\Users\Sava\Desktop\RES\ResProjekat\RESProjekat\RESProjekat\obj\Debug\RESProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Sava\Desktop\RES\ResProjekat\RESProjekat\RESProjekat\obj\Debug\RESProjekat.exe
+C:\Users\Sava\Desktop\RES\ResProjekat\RESProjekat\RESProjekat\obj\Debug\RESProjekat.pdb
